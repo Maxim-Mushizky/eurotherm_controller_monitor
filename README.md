@@ -1,4 +1,4 @@
-# CK20 Eurotherm TC control application- 1 channel only 
+#  Eurotherm TC control application- 2 Channels
 
 
 Written and maintained: Maxim Mushizky<br>
