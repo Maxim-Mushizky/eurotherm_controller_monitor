@@ -1,19 +1,18 @@
-# CK20 Eurotherm TC control application- 1 channel only 
-
-
-Written and maintained: Maxim Mushizky<br>
+   EuroTherm2400 Application
+====================================
+Written and maintained: Maxim Mushizky
 email: maximmu87@gmail.com
----
-### Stable release
-1.0.0-stable
-### DESCRIPTION
+====================================
+
+DESCRIPTION
+===========
 	To measure temperature using the EuroTherm controller 2400- series.
 	The app supports serial connection using Ftdi (RS232-USB interface)
 	between the running computer and EuroTherm 2400 controller.
 	
 	The app was specifically designed for the combination of the following devices:
 		* Eurotherm 2408i controller
-		* R- type Thermocouple 
+		* R- type Thermocouple
 		* RS232 26/9 pin connector
 
 	Thermocouple used along all test was an R- type:
@@ -27,7 +26,7 @@ email: maximmu87@gmail.com
 		
 		More data: https://www.thermocoupleinfo.com/type-r-thermocouple.html
 
-
-### REQUIREMENTS
+REQUIREMENTS
+============
 	Windows7/8/8.1/10- 32/64 bit
 	Linux x86_64
